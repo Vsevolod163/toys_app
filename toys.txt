@@ -1,0 +1,7 @@
+71, Bear, 20
+67, Cat, 100
+13, Tiger, 35
+55, Robot, 5
+67, Bird, 50
+81, Dog, 70
+18, Panda, 85
